@@ -8,15 +8,22 @@
 
 My name is Nithin.   
 
-I’m currently working as a developer with frontend & backend technology stack and, has over 8 years of experience in the industry.   
+I’m currently working as a senior developer [frontend - major & backend - minor]. 
 
 ## Technologies interested
 
 - JavaScript/TypeScript
-- Frontend frameworks
+- Frontend frameworks & SharePoint Online
 - AWS, NodeJS & Java
-- SharePoint Online
 - Anything necessary to get things done
+
+
+
+
+#### **Mission-2023**
+
+- [ ] Areas to be improved - backend tech, system design & DSA
+- [ ] To learn - Golang
 
 
 ## Github profile stats
