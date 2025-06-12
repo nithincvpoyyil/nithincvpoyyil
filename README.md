@@ -8,22 +8,14 @@
 
 My name is Nithin.   
 
-I’m currently working as a senior developer [frontend - major & backend - minor]. 
+I’m currently working as a software developer [frontend - major & backend - minor]
 
 ## Technologies interested
 
-- JavaScript/TypeScript
-- Frontend frameworks & SharePoint Online
-- AWS, NodeJS & Java
+- Web - JavaScript/TypeScript & Frontend frameworks 
+- AWS, NodeJS & Spring
 - Anything necessary to get things done
 
-
-
-
-#### **Mission-2023**
-
-- [ ] Areas to be improved - backend tech, system design & DSA
-- [ ] To learn - Golang
 
 
 ## Github profile stats
